@@ -1,5 +1,5 @@
 # Capítulo 1. Introducción
-#### I.1. ¿Qué es el reconocimiento de patrones (RP)?
+#### [I.1. ¿Qué es el reconocimiento de patrones (RP)?](_posts/2025-01-31-Reconocimiento-de-patrones.md)
 #### I.2. Análisis de un ejemplo de un sistema de RP
 #### I.3. Diagrama de bloques de un sistema de RP
 #### I.4. El ciclo de diseño
