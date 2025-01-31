@@ -19,15 +19,16 @@ categories: Capítulo 1
 
 ### Estrategia:
 
-a) Presentar un diagrama a bloques completo de un SRP.
-b) Presentar distintos algoritmos que resuelven los bloques.
-c) Analizar los métodos de evaluación.
-d) Analizar las estratégias de fusión y combinación de clasificadores.
+1. Presentar un diagrama a bloques completo de un SRP.
+2. Presentar distintos algoritmos que resuelven los bloques.
+3. Analizar los métodos de evaluación.
+4. Analizar las estratégias de fusión y combinación de clasificadores.
 
 ### ¿Qué es el reconocimiento de patrones?
 
-Anil Jain: "El estudio de cómo las máquinas pueden ir observando el ambiente, aprender a distinguir patrones de interés de un fondo y realizar o tomar decisiones razonables sobre las categorías de los mismos."
-Duda et al. "El acto de tomar datos crudos y realizar o llevar a cabo una acción basados en la categoría de los patrones."
+> "El estudio de cómo las máquinas pueden ir observando el ambiente, aprender a distinguir patrones de interés de un fondo y realizar o tomar decisiones razonables sobre las categorías de los mismos." - Anil Jain
+
+> "El acto de tomar datos crudos y realizar o llevar a cabo una acción basados en la categoría de los patrones." - Duda et al.
 
 "encontrar una regla de decisión automática que transforma medidas en asignaciones a clases."
 "dar nombres a los objetos basados en observaciones."
@@ -58,5 +59,7 @@ Muchas aplicaciones requieren longitudes de palabra, para determinar cual sistem
 #### Aplicaciones interesantes
 
 Máquinas de recomendaciones, como NETFLIX, en donde el 75% de los videos o películas seleccionados por un usuario promedio provienen de las recomendaciones producidas por un sistema de propuesta.
+
 Sistemas de reconocimiento: de escritura manual (Servicio postal USA), biometría(facial, huellas andar, etc.).
+
 Aplicaciones en Big Data: descubrir patrones y correlaciones en datos no estructurados, encontrar relaciones, dependencias y anomalías.
