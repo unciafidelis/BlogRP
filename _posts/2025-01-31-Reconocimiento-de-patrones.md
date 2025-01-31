@@ -10,7 +10,7 @@ categories: Capítulo 1
 
 - Realizar hincapié en la evaluación de desempeño de los modelos propuestos y su aplicación en la resolución de problemas prácticos.
 
- ### Objetivos específicos
+### Objetivos específicos
 
  1. Identificar los componentes principales de un sistema de reconocimiento de patrones (SRP).
  2. Estudio de algoritmos asociados a las distintas etapas y modelos de un SRP.
