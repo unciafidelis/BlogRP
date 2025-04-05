@@ -13,6 +13,7 @@
 #### II.4. Estimación paramétrica de densidades
 #### II.5. Máximo de Verosimilitud (ML)
 #### II.6. Estimación Bayesiana
+#### II.7. [Ejemplos de implementación de modelos ML](_posts/2025-04-04-EjemplosML.md)
 
 # Capítulo 3. Técnicas de clasificación no paramétricas
 #### III.1. Introducción
