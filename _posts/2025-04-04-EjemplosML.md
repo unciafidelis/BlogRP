@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Ejemplos de implementación de modelos de ML"
+date:   2025-04-04 22:02:14 -0500
+categories: Capítulo 2
+---
+
 En este post se presentan 5 diferentes implementaciones de modelos ML:
 
 ### 1. **Clasificación con el conjunto de datos Iris (Clasificación supervisada)**
